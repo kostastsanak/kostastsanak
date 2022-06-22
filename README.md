@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that sounds intresting
 - 📫 How to reach me (via email kostas.tsan@hotmail.com)
 
-- ❗❗ Most of my projects are locked for ethical reasons. If you want a preview of my work so far you can always email me to get temporary access. <3
+- ❗❗ A part of my projects are locked for ethical reasons. If you want a preview of my work so far you can always email me to get temporary access. <3
 
 <div>
   <img align ="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=kostastsanak&show_icons=true&theme=radical"/>
