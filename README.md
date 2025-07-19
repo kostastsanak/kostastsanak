@@ -16,7 +16,6 @@ Backend developer passionate about building scalable systems and creating cool s
 - Python (Django, Flask)
 - SQL (PostgreSQL, MySQL)
 - JavaScript/TypeScript
-- Bash scripting
 
 **Tools & Platforms:**
 - **Cloud:** Azure, Kubernetes, Docker, Terraform
