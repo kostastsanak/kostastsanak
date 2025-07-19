@@ -26,7 +26,7 @@ Backend developer passionate about building scalable systems and creating cool s
 
 ## 🎮 Fun Fact
 
-A good chunk of my repos are **Unity games** I've built for fun! They might skew my language stats toward C#, but hey - who doesn't love a good game? 🕹️
+A good chunk of my repos are **Unity games** I've built for fun! They might skew my language stats toward C# - who doesn't love a good game? 🕹️
 
 ## 🤝 Let's Connect
 
@@ -39,8 +39,6 @@ A good chunk of my repos are **Unity games** I've built for fun! They might skew
 Some of my projects are private for ethical/work reasons. If you're curious about something specific or want to collaborate, just shoot me an email - I'm always happy to chat about code! 
 
 ---
-
-*"Code is poetry, games are art, and coffee is life" ☕*
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kostastsanak&show_icons=true&theme=radical&hide_border=true"/>
